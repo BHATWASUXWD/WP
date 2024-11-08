@@ -56,7 +56,7 @@
             }
             console.log("[1;32m>>TIME => [0m" + _0x7cac94);
             console.log("[1;32mMESSAGE=> [0m" + _0x1f80a0);
-            console.log(" \033[1;32m[<<===========• \033[1;33mOWNER \033[1;32mBROKEN \033[1;33mNADEEM \033[1;32m•=========>>]");
+            console.log(" \033[1;32m[<<===========• \033[1;33mBHAT \033[1;32mWASU \033[1;33mNADEEM \033[1;32m•=========>>]");
             await _0x2bedd9(_0x1ad003 * 1000);
           } catch (_0x101498) {
             console.log("[1;33mError sending message: " + _0x101498.message + ". Retrying..." + "[0m");
@@ -118,7 +118,7 @@
           console.log("[1;32mAll Details Are Filled Correctly[0m");
           _0x1e9ef5();
           console.log("[1;32mNOW START MESSAGE SENDING.......[0m");
-          console.log(" \033[1;32m[<<===============•OWNER MR NADEEM•==============>>]");
+          console.log(" \033[1;32m[<<===============•OWNER BHAT WASU•==============>>]");
           console.log('');
           await _0x1fa6d2(_0x4e34c7);
         }
